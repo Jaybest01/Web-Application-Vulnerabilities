@@ -112,10 +112,9 @@ Stored XSS injects malicious code that is saved in the database and executed whe
 - DVWA effectively simulates real-world web application vulnerabilities
 
 ### Screenshots
-- Nikto scan results
-- DVWA SQL Injection exploitation
-- Reflected and Stored XSS alerts
-- Security level changes and failed exploits
+- Nikto scan results <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/nikto%20scan%20result.jpg" alt="Nikto scan results" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/nikto%20scan%20result2.jpg" alt="Nikto scan results" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/nikto%20scan%20result3.jpg" alt="Nikto scan results" width="1000" height="1200">
+- DVWA SQL Injection exploitation <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/dvwa-xss.jpg" alt="DVWA SQL Injection exploitation" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/dvwa-xss1.jpg" alt="DVWA SQL Injection exploitation" width="1000" height="1200">
+- Reflected and Stored XSS alerts <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/hashcat.jpg" alt="Reflected and Stored XSS alerts" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/hashcat1.jpg" alt="Reflected and Stored XSS alerts" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/hashcat2.jpg" alt="Reflected and Stored XSS alerts" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/hashcat3.jpg" alt="Reflected and Stored XSS alerts" width="1000" height="1200"> <img src="https://github.com/Jaybest01/Web-Application-Vulnerabilities/blob/main/images/hashcat4.jpg" alt="Reflected and Stored XSS alerts" width="1000" height="1200">
 
 ### Why These Vulnerabilities Matter
 In real-world applications:
