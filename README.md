@@ -2,13 +2,11 @@
 ## Vulnerability Scanning, SQL Injection & Cross-Site Scripting (XSS)
 
 ## Objective
-<p>The objective of this lab was to understand and practically demonstrate common web application vulnerabilities by reproducing the following attacks in a controlled lab environment:</p>
-<ul>
-  <li>Vulnerability scanning using Nikto</li>
-  <li>SQL Injection using DVWA</li>
-  <li>Cross-Site Scripting (XSS) (Reflected and Stored)</li>
-<li/>
-<p>The lab simulates real-world web application weaknesses and demonstrates how attackers exploit them, as well as how increasing security controls mitigates these vulnerabilities.</p>
+The objective of this lab was to understand and practically demonstrate common web application vulnerabilities by reproducing the following attacks in a controlled lab environment:
+- Vulnerability scanning using Nikto</li>
+- SQL Injection using DVWA</li>
+- Cross-Site Scripting (XSS) (Reflected and Stored)</li>
+The lab simulates real-world web application weaknesses and demonstrates how attackers exploit them, as well as how increasing security controls mitigates these vulnerabilities.
 
 ## Tools Used
 •	Kali Linux
